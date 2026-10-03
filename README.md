@@ -69,7 +69,7 @@ Type Ia, II, Ibc supernovae; superluminous supernovae; tidal disruption events; 
 
 ## Authors
 
-**Daisy Shang, NullTemp** — 2026
+**NullTemp** — 2026
 
 *Developed with assistance from DeepSeek.*
 
@@ -153,7 +153,7 @@ python launcher.py
 
 ## 作者
 
-**Daisy Shang, NullTemp** — 2026
+**NullTemp** — 2026
 
 *本项目在 DeepSeek 的辅助下完成开发*
 
